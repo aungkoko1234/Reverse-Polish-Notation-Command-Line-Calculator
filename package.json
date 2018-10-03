@@ -1,0 +1,17 @@
+{
+  "name": "rpncalculator",
+  "version": "1.0.0",
+  "description": "calulator which is based on reverse polish notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "aungkoko",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
